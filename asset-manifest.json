@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-deploy/static/js/main.a7081390.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.a7081390.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.b008f401.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.b008f401.js.map",
+    "static/css/2.11829350.chunk.css": "/react-deploy/static/css/2.11829350.chunk.css",
+    "static/js/2.b56a970f.chunk.js": "/react-deploy/static/js/2.b56a970f.chunk.js",
+    "static/js/2.b56a970f.chunk.js.map": "/react-deploy/static/js/2.b56a970f.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "precache-manifest.b69f5cf72c8ce61e42d5a35ef102b491.js": "/react-deploy/precache-manifest.b69f5cf72c8ce61e42d5a35ef102b491.js",
+    "service-worker.js": "/react-deploy/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/react-deploy/static/css/2.11829350.chunk.css.map",
+    "static/js/2.b56a970f.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.b56a970f.chunk.js.LICENSE.txt",
+    "static/media/leprechau.png": "/react-deploy/static/media/leprechau.df1394f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b008f401.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.b56a970f.chunk.js",
+    "static/js/main.a7081390.chunk.js"
+  ]
+}
